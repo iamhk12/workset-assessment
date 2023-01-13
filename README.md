@@ -1,7 +1,7 @@
 
 # WORKSET (assessment) - Portfolio website
 
-A webpage assessment.
+* A webpage using HTML, CSS, JS, PHP, MySQL.
 <br/><br/><br/>
 Disc: This is an assessment test provided by Workset. 
 
